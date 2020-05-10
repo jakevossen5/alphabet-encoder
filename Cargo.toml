@@ -1,6 +1,6 @@
 [package]
 name = "alphabet-encoder"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Jake Vossen <jake@vossen.dev>"]
 edition = "2018"
 description = "A quick and dirty way to deal with escape characters"
